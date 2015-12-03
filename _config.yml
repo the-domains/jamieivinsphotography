@@ -1,0 +1,28 @@
+name: jamieivinsphotography
+favicon: null
+layout_spectrum: 0.05741204507648945
+typography_spectrum: 0.05049232067540288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6441381063777953
+  lightness: 0.2841875865124166
+  saturation: 0.9950388006400317
+  rhythmicContrast: 0.1826565181836486
+purpose: []
